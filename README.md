@@ -3,9 +3,10 @@
 ## My name is Gabriel. I'm software enginner specialized in android development and very enthusiastic about javascript and home automation. 
 
 <div align="center">
+  <img height="200em" style="margin-rigth: 40em;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamarcos&layout=compact&langs_count=7&theme=dark"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gamarcos&show_icons=true&theme=darl&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamarcos&layout=compact&langs_count=7&theme=dark"/>
 </div>
+<br/>
 <br/>
 <div style="display: inline_block">
    <br>
